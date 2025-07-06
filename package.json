@@ -1,0 +1,22 @@
+{
+  "name": "systemcheckscheduler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "moment": "^2.30.1",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.1",
+    "node-cron": "^4.1.0",
+    "redis": "^5.5.6",
+    "redis-connection-pool": "^4.0.1"
+  }
+}
